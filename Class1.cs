@@ -8,7 +8,7 @@ public class Class1
 
 	public void foo()
 	{
-		Console.WriteLine("This is from foo.");
+		Console.WriteLine("Words words words.");
 	}
 
 	public string myName()
