@@ -15,4 +15,9 @@ public class Class1
 	{
 		Console.WriteLine("Helloooo nurse!");
 	}
+	
+	public string myName()
+	{
+		return "My name is Mud."
+	}
 }
