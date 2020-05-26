@@ -10,4 +10,9 @@ public class Class1
 	{
 		Console.WriteLine("Hello World");
 	}
+
+	public void bar()
+	{
+		Console.WriteLine("Good bye cruel world.");
+	}
 }
