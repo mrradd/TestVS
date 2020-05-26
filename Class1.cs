@@ -18,6 +18,6 @@ public class Class1
 	
 	public string myName()
 	{
-		return "My name is Herp Derp."
+		return "My name is Herp Derp.";
 	}
 }
