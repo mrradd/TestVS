@@ -6,7 +6,10 @@ public class Class1
 	{
 	}
 
-	
+	public string bar()
+	{
+		return "booplesnoot";
+	}
 	
 	public string myName()
 	{
