@@ -6,4 +6,9 @@ public class Class3
 	{
 		//this is a constructor.
 	}
+
+	public void afunc()
+	{
+		//This is a function.
+	}
 }
