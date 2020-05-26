@@ -13,6 +13,6 @@ public class Class1
 
 	public void bar()
 	{
-		Console.WriteLine("Good bye cruel world.");
+		Console.WriteLine("Helloooo nurse!");
 	}
 }
