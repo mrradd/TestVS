@@ -13,7 +13,7 @@ public class Class1
 
 	public void bar()
 	{
-		Console.WriteLine("Helloooo nurse!");
+		Console.WriteLine("Hello there!");
 	}
 	
 	public string myName()
